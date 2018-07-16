@@ -4,6 +4,7 @@
 // consider the function encodings. - Chris
 package Sodor
 
+
 import chisel3._
 import chisel3.util._
 
